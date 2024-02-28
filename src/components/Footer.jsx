@@ -10,11 +10,11 @@ const Footer = () => {
           </span>
           Toll free <strong>1800 200 1234</strong>
         </p>
-        <p className="flex items-end gap-4 text-white font-semibold my-3">
+        <p className="flex items-end gap-2 text-white font-semibold my-3">
           <FaFacebook size={35} color="white" />
           www.facebook.com/cripumps
         </p>
-        <p className="flex items-end gap-4 text-white font-semibold my-3">
+        <p className="flex items-end gap-2 text-white font-semibold my-3">
           <FaGlobe size={35} color="white" />
           www.crigroups.com
         </p>
